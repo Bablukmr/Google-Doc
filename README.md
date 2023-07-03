@@ -17,7 +17,8 @@ Used for structuring the web pages and content.
 Used for styling the website and creating an appealing user interface.
 ### JavaScript: 
 Used for implementing functionality and interactions.
-### React.js: A JavaScript library for building user interfaces, used for creating the components and managing the application state.
+### React.js: 
+A JavaScript library for building user interfaces, used for creating the components and managing the application state.
 
 ### Quill: 
 A powerful and customizable WYSIWYG (What You See Is What You Get) text editor library for the web, used for providing rich text editing capabilities.
